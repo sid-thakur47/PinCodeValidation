@@ -10,5 +10,3 @@ pinCodePattern="^[0-9]{6}$"
 	else
 		echo "Invalid Pincode"
 	fi
-
-
